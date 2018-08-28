@@ -14,5 +14,7 @@ def display_rainbow(colors)
   print "I: #{colors[5]}, "
   print "V: #{colors[6]}"
 
- display_rainbow(colors)
+ 
 end
+
+display_rainbow
