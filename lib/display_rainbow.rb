@@ -10,4 +10,6 @@ def display_rainbow(colors)
   print "I: #{colors[5]}, "
   print "V: #{colors[6]} "
 
+diplay_rainbow(colors)
+
 end
