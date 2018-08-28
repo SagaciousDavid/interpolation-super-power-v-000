@@ -4,7 +4,7 @@
 
 def display_rainbow(colors)
 
-  colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
   print "R: #{colors[0]}, "
   print "O: #{colors[1]}, "
